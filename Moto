@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Moto Makis</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background-color: #f4f4f4; }
+    h1 { color: #006400; }
+    .product { background: #fff; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}
+    .product h3 { margin: 0; }
+    .product p { margin: 5px 0; }
+    img { max-width: 100%; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>🏍️ Moto Makis</h1>
+  <p>Καλώς ήρθατε στο κατάστημά μας! Διαθέτουμε μηχανάκια, ποδήλατα και είδη κήπου. Παρακάτω θα βρείτε δείγματα προϊόντων.</p>
+
+  <div class="product">
+    <h3>Μηχανάκι Honda 125cc</h3>
+    <p>Τιμή: 1.900€ – Διαθέσιμο</p>
+    <img src="https://via.placeholder.com/400x200.png?text=Honda+125cc" alt="Μηχανάκι">
+  </div>
+
+  <div class="product">
+    <h3>Ποδήλατο Trek MTB</h3>
+    <p>Τιμή: 450€ – Διαθέσιμο</p>
+    <img src="https://via.placeholder.com/400x200.png?text=TREK+MTB" alt="Ποδήλατο">
+  </div>
+
+  <div class="product">
+    <h3>Χορτοκοπτικό STIHL FS 55</h3>
+    <p>Τιμή: 320€ – Μη διαθέσιμο</p>
+    <img src="https://via.placeholder.com/400x200.png?text=STIHL+FS+55" alt="Χορτοκοπτικό">
+  </div>
+
+  <p>📍 Επισκεφθείτε μας στο φυσικό μας κατάστημα στο κέντρο της πόλης!</p>
+</body>
+</html>
